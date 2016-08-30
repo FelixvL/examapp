@@ -1,0 +1,27 @@
+//general color scheme based upon ProgramIT website
+$primary: #114C83; //darkblue
+$middleblue: #316898; //middle blue
+$lightblue: #5095BE; //light blue
+$ashgrey: #B6B6B6; // ash grey
+
+.page-header {
+	background-color: #316898;
+}
+
+h1 {
+	color: #114C83;
+}
+
+body{
+	background-color: #5095BE;
+}
+
+.logo{
+	width: 4em;
+	height: auto;
+}
+
+.codesnippet{
+	background: black;
+	color: white;
+}
